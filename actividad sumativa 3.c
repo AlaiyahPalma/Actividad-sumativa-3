@@ -1,12 +1,12 @@
 #include <stdio.h>
 #include <math.h>
 
-/* Autora: Alaiyah Palma Ramírez*/
+/* Autora: Alaiyah Palma RamÃ­rez*/
 /* Titulo: Actividad Sumativa 3*/
 
 
 	void ecuaciones (double, double, double, double*,double*);	
-	void main (void){
+	int main (void){
 		double a, b,c, x1, x2;
 		 
 		printf("Introduzca a: \n");
